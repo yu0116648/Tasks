@@ -7,7 +7,7 @@
 2. [Git学习笔记](https://github.com/yu0116648/Tasks/blob/main/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 # 阶段3学习成果
 1. [HTML学习笔记](https://github.com/yu0116648/Tasks/blob/main/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-2. [CSS学习笔记]
+2. [CSS学习笔记](https://github.com/yu0116648/Tasks/blob/main/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 3. [JS学习笔记]
 4. [静态网页作品链接]
 5. [页面编后感]
