@@ -1,5 +1,5 @@
 # 阶段1学习成果
-1. [什么是Geek精神]（https://github.com/yu0116648/Tasks/blob/main/%E4%BB%80%E4%B9%88%E6%98%AFGeek%E7%B2%BE%E7%A5%9E.md）
+1. [什么是Geek精神](https://github.com/yu0116648/Tasks/blob/main/%E4%BB%80%E4%B9%88%E6%98%AFGeek%E7%B2%BE%E7%A5%9E.md)）
 2. [GitHub学习笔记]
 3. [Markdown学习笔记]
 # 阶段2学习成果
