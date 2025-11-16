@@ -1,6 +1,6 @@
 # 阶段1学习成果
 1. [什么是Geek精神](https://github.com/yu0116648/Tasks/blob/main/%E4%BB%80%E4%B9%88%E6%98%AFGeek%E7%B2%BE%E7%A5%9E.md)）
-2. [GitHub学习笔记]
+2. [GitHub学习笔记](https://github.com/yu0116648/Tasks/blob/main/GitHub%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 3. [Markdown学习笔记]
 # 阶段2学习成果
 1. [GitHub主题美化学习笔记]
