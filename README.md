@@ -6,7 +6,7 @@
 1. [GitHub主题美化学习笔记](https://github.com/yu0116648/Tasks/blob/main/Github%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 2. [Git学习笔记](https://github.com/yu0116648/Tasks/blob/main/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 # 阶段3学习成果
-1. [HTML学习笔记]
+1. [HTML学习笔记](https://github.com/yu0116648/Tasks/blob/main/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 2. [CSS学习笔记]
 3. [JS学习笔记]
 4. [静态网页作品链接]
