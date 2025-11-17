@@ -9,5 +9,5 @@
 1. [HTML学习笔记](https://github.com/yu0116648/Tasks/blob/main/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 2. [CSS学习笔记](https://github.com/yu0116648/Tasks/blob/main/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 3. [JS学习笔记](https://github.com/yu0116648/Tasks/blob/main/Javascript%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-4. [静态网页作品链接](https://github.com/yu0116648/Tasks1/blob/main/huiyi.html)
+4. [静态网页作品链接](https://yu0116648.github.io/Tasks1/)
 5. [页面编后感](https://github.com/yu0116648/Tasks/blob/main/%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5%E7%BC%96%E5%90%8E%E6%84%9F.md)
