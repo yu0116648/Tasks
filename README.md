@@ -13,4 +13,4 @@
 5. [页面编后感](https://github.com/yu0116648/Tasks/blob/main/%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5%E7%BC%96%E5%90%8E%E6%84%9F.md)
 # 阶段4学习成果
 1. [Geek招新网站复刻链接](https://github.com/yu0116648/Tasks2/blob/main/%E5%A4%8D%E5%88%BB%E9%AA%8C%E8%AF%81.html)
-2. [Geek招新网站复刻编后感](https://github.com/yu0116648/Tasks/blob/main/Geek%E6%8B%9B%E6%96%B0%E7%BD%91%E7%AB%99%E5%A4%8D%E5%88%BB%E7%BC%96%E5%90%8E%E6%84%9F.md)
+2. [Geek招新网站复刻编后感](https://yu0116648.github.io/Tasks2/)
